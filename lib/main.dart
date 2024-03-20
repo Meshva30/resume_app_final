@@ -27,7 +27,6 @@ void main() {
       '/home':(context) => Homescreen(),
       '/contact':(context) => contact(),
       '/personal':(context) => personal(),
-
       '/career':(context) => careen(),
       '/education':(context) => education(),
       '/keyskills':(context) => Keyskills(),
