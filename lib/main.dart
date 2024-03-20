@@ -29,6 +29,7 @@ void main() {
       '/personal':(context) => personal(),
       '/career':(context) => careen(),
       '/education':(context) => education(),
+
       '/keyskills':(context) => Keyskills(),
       '/language':(context) => language(),
       '/projects':(context) => projects(),
